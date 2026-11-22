@@ -1,35 +1,61 @@
-# Awesome-Social-Media-CLI-Headless-Instagram-Tools
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Social Media CLI and Headless Instagram Tools Banner" width="100%" />
+</p>
 
-## Top Social Media CLI & Headless Instagram Tools Ecosystem
+# 🚀 Awesome Social Media CLI & Headless Instagram Tools 📸
+
+<p align="center">
+  <a href="https://github.cmm/ishandutta2007/Awesome-Awesome-Aeesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools" alt="GitHub Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+---
+
+## 🎯 Top Social Media CLI & Headless Instagram Tools Ecosystem
 
 **Curated List of SaaS/Hosted Platforms & Open-Source GitHub Projects**  
 *Focused on Terminal Instagram Clients, Headless Social Automation, CLI Schedulers, Feed Archivers & Self-Hosted Publishers*  
 
-**Last updated: November 2026**
+📅 **Last updated: November 2026**
 
-This repository tracks notable **SaaS/hosted social media management platforms** and **open-source GitHub projects** for **Social Media CLI & Headless Instagram Tools**. These tools allow developers, terminal power users, social media managers, and automation engineers to browse Instagram feeds, send direct messages, publish reels/posts, schedule multi-network content, and archive media directly from the command line or headless scripts.
+This repository is an SEO-optimized, community-curated directory tracking the best **SaaS/hosted social media management platforms** and high-performance **open-source GitHub projects** for **Social Media CLI & Headless Instagram Tools**. Whether you are an indie hacker, Python developer, DevOps engineer, terminal enthusiast, or social media agency, these tools empower you to automate Instagram workflows, manage DMs, auto-schedule posts/reels, scrape metadata, and monitor multi-network channels directly from terminal environments and headless microservices without GUI bloat.
 
-**Examples** include supreme-gg-gg/instagram-cli, instagrapi, Instaloader, gallery-dl, Postiz, Mixpost, toot, tuisky, Buffer, Hootsuite, Later, Sprout Social, Planoly, Tailwind, Loomly, SocialPilot, Sendible, and Metricool.
+🔥 **Notable Examples & Key Tools**:
+- **Terminal & TUI Clients**: `supreme-gg-gg/instagram-cli`, `toot`, `tut`, `tuisky`, `chafa`, `timg`
+- **Headless SDKs & Automation Libraries**: `instagrapi`, `instagram-private-api`, `Playwright`, `Crawlee`, `FFmpeg`
+- **Media Downloaders & Feed Bridges**: `Instaloader`, `yt-dlp`, `gallery-dl`, `RSSHub`, `newsboat`
+- **Self-Hosted AI Schedulers**: `Postiz`, `Mixpost`, `n8n`
+- **Enterprise & SaaS Platforms**: `Buffer`, `Hootsuite`, `Later`, `Sprout Social`, `Planoly`, `Tailwind`, `Loomly`, `SocialPilot`, `Sendible`, `Metricool`
 
-**Open-source emphasis**: This list heavily expands on active open-source terminal Instagram clients, headless GraphQL/private API wrappers, CLI social media tools, and self-hosted visual schedulers — ideal for developers and creators seeking keyboard-driven, scriptable, and distraction-free social workflows without SaaS subscriptions.
+💡 **Open-Source & Terminal Emphasis**: This list heavily highlights active open-source command-line interfaces, headless GraphQL/private REST API wrappers, cron-ready schedulers, and decentralized social protocols (AT Protocol, Nostr, ActivityPub) — perfect for building lightweight, keyboard-centric, distraction-free social pipelines.
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+---
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
 
-## Sector Overview & Market Dynamics
+---
 
-The global social media management software market is estimated at approximately $23B – $35B in 2026, projected to surpass $100B+ over the next decade at a CAGR of 16%–23%. The sector exhibits a hybrid competitive structure: heavily concentrated at the enterprise tier dominated by consolidated giants like Sprout Social and Hootsuite offering unified governance, while remaining structurally fragmented across SMBs and creator segments where dozens of niche schedulers, point tools, and open-source headless alternatives compete fiercely.
+## 📊 Sector Overview & Market Dynamics
 
-## SaaS/Hosted Platforms
+The global social media management software market is estimated at approximately **$23B – $35B in 2026**, projected to surpass **$100B+** over the next decade at a CAGR of 16%–23%. The sector exhibits a hybrid competitive structure: heavily concentrated at the enterprise tier dominated by consolidated giants like Sprout Social and Hootsuite offering unified governance, while remaining structurally fragmented across SMBs and creator segments where dozens of niche schedulers, point tools, and open-source headless alternatives compete fiercely.
 
-| Platform | Revenue / Valuation (Company Size) | Pricing (Starting Tier) | Free Tier Limit / Trial Duration & Limits | Key Highlights |
+---
+
+## ☁️ SaaS/Hosted Platforms
+
+| Platform | 🏢 Revenue / Valuation (Company Size) | 💳 Pricing (Starting Tier) | 🎁 Free Tier Limit / Trial Duration & Limits | ⚡ Key Highlights |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Sprout Social](https://sproutsocial.com)** | ~$491M ARR / ~$660M Market Cap | $199/seat/month (Standard tier, billed annually) | 30-day free trial (no credit card required; access to 5 social profiles, standard publishing & analytics) | Enterprise social listening, multi-profile publishing, automated approval queues, and deep CRM integrations. |
 | **[Hootsuite](https://hootsuite.com)** | ~$350M–$400M ARR / ~$1B+ peak valuation | $99/month (Standard plan, 1 user, 10 social profiles) | 14-day free trial (full features across selected tier, capped at 10–20 daily posts per org during trial) | Enterprise scheduling, cross-channel dashboard, team workflows, and brand monitoring. |
@@ -42,7 +68,9 @@ The global social media management software market is estimated at approximately
 | **[Sendible](https://sendible.com)** | ~$8M–$12M ARR (Part of Trajectory / Performa PE) | $29.75/month (Core tier billed annually, or $35 billed monthly; 1 workspace, 6 social profiles) | 14-day free trial (no credit card required; access to 1 workspace, 6 profiles, and scheduled posting) | Digital marketing agency platform with unified social inboxes, client approval workflows, and automated RSS posting. |
 | **[Loomly](https://loomly.com)** | ~$5M–$8M ARR / Private (Trajectory PE) | $32/month (Base tier billed annually, or $42 billed monthly; 2 users, 10 social accounts) | 7-day free trial (no credit card required; full access to collaborative calendars, post ideas, and automated posting) | Collaborative editorial calendar, post mockup previews, asset library, and approval workflows. |
 
-## Open-Source GitHub Projects
+---
+
+## 💻 Open-Source GitHub Projects
 
 - **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   Fair-code workflow automation platform with CLI execution support for headless social scheduling & APIs.
@@ -113,24 +141,51 @@ The global social media management software market is estimated at approximately
 - **[tuisky](https://github.com/sugyan/tuisky)** [![GitHub stars](https://img.shields.io/github/stars/sugyan/tuisky?style=social&color=white)](https://github.com/sugyan/tuisky/stargazers)  
   Terminal User Interface (TUI) client for Bluesky written in Rust.
 
-**Frameworks for building custom systems**: Combine **instagram-cli** for interactive terminal DMs and feed browsing with **instagrapi** + **FFmpeg** + **cron** for automated headless Reel/post publishing, or self-host **Postiz** / **Mixpost** for visual team calendars.
+🛠️ **Frameworks for building custom systems**: Combine **instagram-cli** for interactive terminal DMs and feed browsing with **instagrapi** + **FFmpeg** + **cron** for automated headless Reel/post publishing, or self-host **Postiz** / **Mixpost** for visual team calendars.
 
-## How to Contribute
+---
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+## 🤝 How to Contribute
 
-Star the repo if you find it useful!
+1. 🍴 Fork the repository.
+2. 📝 Add or edit entries in `README.md` (follow the table/list structure).
+3. 🔍 Include: tool name, direct link, concise factual description, and star counts/pricing details where applicable.
+4. 🚀 Submit a Pull Request with a clear explanation of your additions.
 
-## Disclaimer
+⭐ **Star the repo** if you find this curated collection useful for your automation workflow!
 
-- This is a **community-curated** list — not exhaustive and not an endorsement.
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using this collection! Maintaining and curating open-source resources takes continuous research and effort. 
+
+If this repository saved you time, helped your development workflow, or introduced you to your favorite headless/CLI tool:
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** to keep the list fresh and accurate.
+- 📢 **Share** with your friends, colleagues, and developer communities.
+- ☕ **Buy me a coffee & support my open-source work**: Sponsor via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support is deeply appreciated and keeps projects like this actively maintained!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated** list — not exhaustive and not an official Meta endorsement.
 - Headless clients and CLI wrappers that automate private Instagram endpoints (`instagram-cli`, `instagrapi`) can trigger rate limits, security checkpoints, or account restrictions if abused; use realistic delays, persistent session files, and dedicated accounts.
 - Never commit session cookies, 2FA seeds, or Instagram passwords into public Git repositories; store credentials in OS keychains or restricted `.env` files.
 
 ---
 
-**Made for terminal enthusiasts, automation engineers, indie creators, and open-source developers.**  
-Let's make social media CLI tools and headless workflows faster, distraction-free, and open to everyone.
+<p align="center">
+  <b>Made with ❤️ for terminal enthusiasts, automation engineers, indie creators, and open-source developers.</b><br>
+  <i>Let's make social media CLI tools and headless workflows faster, distraction-free, and open to everyone.</i>
+</p>
