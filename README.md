@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.cmm/ishandutta2007/Awesome-Awesome-Aeesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Social-Media-CLI-Headless-Instagram-Tools/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" /></a>
@@ -72,73 +72,73 @@ The global social media management software market is estimated at approximately
 
 ## 💻 Open-Source GitHub Projects
 
-- **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+- **[n8n](https://github.com/n8n-io/n8n)** [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   Fair-code workflow automation platform with CLI execution support for headless social scheduling & APIs.
 
-- **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** [![GitHub stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social&color=white)](https://github.com/yt-dlp/yt-dlp/stargazers)  
+- **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** [![GitHub_Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social&color=white)](https://github.com/yt-dlp/yt-dlp/stargazers)  
   Command-line audio/video downloader supporting Instagram Reels, Stories, IGTV, and video platforms.
 
-- **[Playwright](https://github.com/microsoft/playwright)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
+- **[Playwright](https://github.com/microsoft/playwright)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
   Headless browser automation framework for reliable end-to-end web testing and social scraping.
 
-- **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** [![GitHub stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers)  
+- **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** [![GitHub_Stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers)  
   Complete, cross-platform solution to record, convert, format aspect ratios (9:16 Reels), and stream audio/video.
 
-- **[RSSHub](https://github.com/DIYgod/RSSHub)** [![GitHub stars](https://img.shields.io/github/stars/DIYgod/RSSHub?style=social&color=white)](https://github.com/DIYgod/RSSHub/stargazers)  
+- **[RSSHub](https://github.com/DIYgod/RSSHub)** [![GitHub_Stars](https://img.shields.io/github/stars/DIYgod/RSSHub?style=social&color=white)](https://github.com/DIYgod/RSSHub/stargazers)  
   Extensible RSS feed generator that generates web feeds from Instagram profiles, posts, and social platforms.
 
-- **[Postiz](https://github.com/gitroomhq/postiz-app)** [![GitHub stars](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=social&color=white)](https://github.com/gitroomhq/postiz-app/stargazers)  
+- **[Postiz](https://github.com/gitroomhq/postiz-app)** [![GitHub_Stars](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=social&color=white)](https://github.com/gitroomhq/postiz-app/stargazers)  
   AI-powered social media scheduling tool with API/CLI access and self-hosted web UI across multiple networks.
 
-- **[Crawlee](https://github.com/apify/crawlee)** [![GitHub stars](https://img.shields.io/github/stars/apify/crawlee?style=social&color=white)](https://github.com/apify/crawlee/stargazers)  
+- **[Crawlee](https://github.com/apify/crawlee)** [![GitHub_Stars](https://img.shields.io/github/stars/apify/crawlee?style=social&color=white)](https://github.com/apify/crawlee/stargazers)  
   Web scraping and browser automation library for Node.js to build headless social extractors with proxy rotation.
 
-- **[gallery-dl](https://github.com/mikf/gallery-dl)** [![GitHub stars](https://img.shields.io/github/stars/mikf/gallery-dl?style=social&color=white)](https://github.com/mikf/gallery-dl/stargazers)  
+- **[gallery-dl](https://github.com/mikf/gallery-dl)** [![GitHub_Stars](https://img.shields.io/github/stars/mikf/gallery-dl?style=social&color=white)](https://github.com/mikf/gallery-dl/stargazers)  
   CLI media and metadata downloader for Instagram, X, Reddit, Bluesky, Pinterest, and image hosting sites.
 
-- **[Instaloader](https://github.com/instaloader/instaloader)** [![GitHub stars](https://img.shields.io/github/stars/instaloader/instaloader?style=social&color=white)](https://github.com/instaloader/instaloader/stargazers)  
+- **[Instaloader](https://github.com/instaloader/instaloader)** [![GitHub_Stars](https://img.shields.io/github/stars/instaloader/instaloader?style=social&color=white)](https://github.com/instaloader/instaloader/stargazers)  
   Python CLI and library to download public and private Instagram profiles, hashtags, stories, and highlights.
 
-- **[Nostr Protocol](https://github.com/nostr-protocol/nostr)** [![GitHub stars](https://img.shields.io/github/stars/nostr-protocol/nostr?style=social&color=white)](https://github.com/nostr-protocol/nostr/stargazers)  
+- **[Nostr Protocol](https://github.com/nostr-protocol/nostr)** [![GitHub_Stars](https://img.shields.io/github/stars/nostr-protocol/nostr?style=social&color=white)](https://github.com/nostr-protocol/nostr/stargazers)  
   Censorship-resistant decentralized social networking protocol with numerous lightweight CLI/TUI clients.
 
-- **[AT Protocol (Bluesky)](https://github.com/bluesky-social/atproto)** [![GitHub stars](https://img.shields.io/github/stars/bluesky-social/atproto?style=social&color=white)](https://github.com/bluesky-social/atproto/stargazers)  
+- **[AT Protocol (Bluesky)](https://github.com/bluesky-social/atproto)** [![GitHub_Stars](https://img.shields.io/github/stars/bluesky-social/atproto?style=social&color=white)](https://github.com/bluesky-social/atproto/stargazers)  
   Social networking technology created by Bluesky for decentralized public social media applications.
 
-- **[instagrapi](https://github.com/subzeroid/instagrapi)** [![GitHub stars](https://img.shields.io/github/stars/subzeroid/instagrapi?style=social&color=white)](https://github.com/subzeroid/instagrapi/stargazers)  
+- **[instagrapi](https://github.com/subzeroid/instagrapi)** [![GitHub_Stars](https://img.shields.io/github/stars/subzeroid/instagrapi?style=social&color=white)](https://github.com/subzeroid/instagrapi/stargazers)  
   Fast, effective headless Python library for Instagram Private Mobile API with uploads, DMs, and insights.
 
-- **[instagram-private-api](https://github.com/dilame/instagram-private-api)** [![GitHub stars](https://img.shields.io/github/stars/dilame/instagram-private-api?style=social&color=white)](https://github.com/dilame/instagram-private-api/stargazers)  
+- **[instagram-private-api](https://github.com/dilame/instagram-private-api)** [![GitHub_Stars](https://img.shields.io/github/stars/dilame/instagram-private-api?style=social&color=white)](https://github.com/dilame/instagram-private-api/stargazers)  
   Headless Node.js/TypeScript SDK for Instagram private mobile API automation and bots.
 
-- **[chafa](https://github.com/hpjansson/chafa)** [![GitHub stars](https://img.shields.io/github/stars/hpjansson/chafa?style=social&color=white)](https://github.com/hpjansson/chafa/stargazers)  
+- **[chafa](https://github.com/hpjansson/chafa)** [![GitHub_Stars](https://img.shields.io/github/stars/hpjansson/chafa?style=social&color=white)](https://github.com/hpjansson/chafa/stargazers)  
   Terminal graphics and character art generator to render photos and preview social posts inside the console.
 
-- **[LinkStack](https://github.com/LinkStackOrg/LinkStack)** [![GitHub stars](https://img.shields.io/github/stars/LinkStackOrg/LinkStack?style=social&color=white)](https://github.com/LinkStackOrg/LinkStack/stargazers)  
+- **[LinkStack](https://github.com/LinkStackOrg/LinkStack)** [![GitHub_Stars](https://img.shields.io/github/stars/LinkStackOrg/LinkStack?style=social&color=white)](https://github.com/LinkStackOrg/LinkStack/stargazers)  
   Self-hosted open-source Linktree and bio link alternative for Instagram profile landing pages.
 
-- **[Mixpost](https://github.com/inovector/mixpost)** [![GitHub stars](https://img.shields.io/github/stars/inovector/mixpost?style=social&color=white)](https://github.com/inovector/mixpost/stargazers)  
+- **[Mixpost](https://github.com/inovector/mixpost)** [![GitHub_Stars](https://img.shields.io/github/stars/inovector/mixpost?style=social&color=white)](https://github.com/inovector/mixpost/stargazers)  
   Self-hosted social media management platform (Buffer/Hootsuite alternative) built with Laravel & Vue.
 
-- **[newsboat](https://github.com/newsboat/newsboat)** [![GitHub stars](https://img.shields.io/github/stars/newsboat/newsboat?style=social&color=white)](https://github.com/newsboat/newsboat/stargazers)  
+- **[newsboat](https://github.com/newsboat/newsboat)** [![GitHub_Stars](https://img.shields.io/github/stars/newsboat/newsboat?style=social&color=white)](https://github.com/newsboat/newsboat/stargazers)  
   Fast RSS/Atom feed reader for text terminals, perfect for consuming RSSHub social feed bridges.
 
-- **[timg](https://github.com/hzeller/timg)** [![GitHub stars](https://img.shields.io/github/stars/hzeller/timg?style=social&color=white)](https://github.com/hzeller/timg/stargazers)  
+- **[timg](https://github.com/hzeller/timg)** [![GitHub_Stars](https://img.shields.io/github/stars/hzeller/timg?style=social&color=white)](https://github.com/hzeller/timg/stargazers)  
   Terminal image and video viewer using high-resolution terminal graphics (Kitty, Sixel, Unicode blocks).
 
-- **[instagram-cli](https://github.com/supreme-gg-gg/instagram-cli)** [![GitHub stars](https://img.shields.io/github/stars/supreme-gg-gg/instagram-cli?style=social&color=white)](https://github.com/supreme-gg-gg/instagram-cli/stargazers)  
+- **[instagram-cli](https://github.com/supreme-gg-gg/instagram-cli)** [![GitHub_Stars](https://img.shields.io/github/stars/supreme-gg-gg/instagram-cli?style=social&color=white)](https://github.com/supreme-gg-gg/instagram-cli/stargazers)  
   Terminal UI & CLI client for Instagram to browse feeds, view stories, and chat via Direct Messages.
 
-- **[indigo](https://github.com/bluesky-social/indigo)** [![GitHub stars](https://img.shields.io/github/stars/bluesky-social/indigo?style=social&color=white)](https://github.com/bluesky-social/indigo/stargazers)  
+- **[indigo](https://github.com/bluesky-social/indigo)** [![GitHub_Stars](https://img.shields.io/github/stars/bluesky-social/indigo?style=social&color=white)](https://github.com/bluesky-social/indigo/stargazers)  
   Go implementation of the Bluesky AT Protocol for building custom terminal bots and relays.
 
-- **[toot](https://github.com/ihabunek/toot)** [![GitHub stars](https://img.shields.io/github/stars/ihabunek/toot?style=social&color=white)](https://github.com/ihabunek/toot/stargazers)  
+- **[toot](https://github.com/ihabunek/toot)** [![GitHub_Stars](https://img.shields.io/github/stars/ihabunek/toot?style=social&color=white)](https://github.com/ihabunek/toot/stargazers)  
   CLI and TUI client for Mastodon and the Fediverse enabling shell-based posting and timeline reading.
 
-- **[tut](https://github.com/RasmusLindroth/tut)** [![GitHub stars](https://img.shields.io/github/stars/RasmusLindroth/tut?style=social&color=white)](https://github.com/RasmusLindroth/tut/stargazers)  
+- **[tut](https://github.com/RasmusLindroth/tut)** [![GitHub_Stars](https://img.shields.io/github/stars/RasmusLindroth/tut?style=social&color=white)](https://github.com/RasmusLindroth/tut/stargazers)  
   TUI client for Mastodon with vim-inspired keyboard shortcuts.
 
-- **[tuisky](https://github.com/sugyan/tuisky)** [![GitHub stars](https://img.shields.io/github/stars/sugyan/tuisky?style=social&color=white)](https://github.com/sugyan/tuisky/stargazers)  
+- **[tuisky](https://github.com/sugyan/tuisky)** [![GitHub_Stars](https://img.shields.io/github/stars/sugyan/tuisky?style=social&color=white)](https://github.com/sugyan/tuisky/stargazers)  
   Terminal User Interface (TUI) client for Bluesky written in Rust.
 
 🛠️ **Frameworks for building custom systems**: Combine **instagram-cli** for interactive terminal DMs and feed browsing with **instagrapi** + **FFmpeg** + **cron** for automated headless Reel/post publishing, or self-host **Postiz** / **Mixpost** for visual team calendars.
@@ -149,7 +149,7 @@ The global social media management software market is estimated at approximately
 
 1. 🍴 Fork the repository.
 2. 📝 Add or edit entries in `README.md` (follow the table/list structure).
-3. 🔍 Include: tool name, direct link, concise factual description, and star counts/pricing details where applicable.
+3. 🔍 Include: tool name, direct link, concise factual description, and Stars_Counts/pricing details where applicable.
 4. 🚀 Submit a Pull Request with a clear explanation of your additions.
 
 ⭐ **Star the repo** if you find this curated collection useful for your automation workflow!
